@@ -1,0 +1,5 @@
+nuri ceylan:50,40,30
+volkan oğuzhan:60,50,77
+bahar sevim:55,67,87
+ahmet deli:90,100,89
+ali sayan:65,43,67
